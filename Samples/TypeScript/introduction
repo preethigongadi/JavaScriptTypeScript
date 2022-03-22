@@ -1,0 +1,10 @@
+Type safety - TypeScript (Its just layer on top of Javascript)
+ESNext
+ES7
+ES6
+ES5
+
+//contributed by microsoft
+
+npm install -g TypeScript
+tsc filemname.ts

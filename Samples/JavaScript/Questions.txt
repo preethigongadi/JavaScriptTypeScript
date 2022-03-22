@@ -1,0 +1,26 @@
+Questions
+1.  Javascript's Even Driven Model is called?
+    EventLoop
+2. The concept of leveraging an existing function for adding/modifying properties to/of an object is known as ? 
+Function borrowing
+3.What is Object Literal Notation?
+Method to define a new object
+4. On order to safeguard safeguard that no one caadd or delete properties (but can update them) from our objectwe have to use?
+object seal
+5. When an object is passed to a function. It is passed by?
+Reference
+6. Javascript used which type of inheritance?
+prototypal
+7. Javascript has Input/Output built into the language?
+No
+8.what does call, apply and bind methods helps us to define for a function?
+context
+9. By adding a property in a types prototype we can define static property ?
+No
+10
+10. Which statement is true for setTimeout set to 5 seconds as the interval?
+Function within setTimeout will execute after atleast 5 seconds
+11. Scope and closure are concepts related to ?
+Memory allocation and deallocation
+12. An unassigned variable is set to? unassigned
+13. Javascript os Object Based language.
